@@ -1,0 +1,3 @@
+Open this folder in terminal ( command prompt in windows )
+type 'python encodeNdecode.py' to start the program
+or type 'python3 encodeNdecode.py' to start the program

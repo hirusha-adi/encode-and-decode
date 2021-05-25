@@ -1,4 +1,5 @@
 # encode-and-decode
+Simple scripts to Encode and Decode texts with Python3
 
 # Usage
 1. Open the folder in a terminal
